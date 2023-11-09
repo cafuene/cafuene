@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cafuene
+- 👋 Hi, I’m Shrij
 - 👀 I go to Rutgers University and I'm interested in becoming a Software Engineer someday
 - 🌱 I’m currently trying to learn new languages and learning data structures and algorithms.
 - 📫 How to reach me ... haven't figured this out yet -_-
